@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label>spanish translation</label>
+        <name>Test_Custom_Label</name>
+    </customLabels>
+</Translations>
